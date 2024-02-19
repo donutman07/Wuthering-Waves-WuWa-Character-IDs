@@ -34,7 +34,7 @@
 | 5006 | Gulpuff | Echo |
 | 5007 | The Crownless | Echo |
 | 5101 | Phrolova | AKA Fuluoluo |
-| 5102 | Jinhsi | |
+| 5102 | Jinhsi | Again |
 | 5103 | Coastguard | AKA Shounaren |
 | 9990 | Female Rover for execution |
 | 9991 | Male rover for execution |
