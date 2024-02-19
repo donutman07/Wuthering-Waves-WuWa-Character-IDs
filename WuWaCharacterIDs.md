@@ -19,8 +19,8 @@
 | 1501 | Male Rover | |
 | 1502 | Female Rover | |
 | 1503 | Verina | AKA Jueyuan |
-| 1504 | Male ELectro Rover | |
-| 1505 | Female Electro ROver | |
+| 1504 | Male Electro Rover | |
+| 1505 | Female Electro Rover | |
 | 1601 | Taoqi | |
 | 1602 | Danjin | |
 | 1603 | Camellya | AKA Chun |
