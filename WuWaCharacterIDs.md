@@ -1,7 +1,7 @@
 # WuWa Character IDs
 
 |  ID  | EN | Notes |
-| :--: | :--: | |
+| :--: | :--: | :--: |
 | 1102 | Sanhua | |
 | 1103 | Baizhi | |
 | 1104 | Lingyang | |
