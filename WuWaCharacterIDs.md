@@ -34,6 +34,15 @@
 | 5005 | Sentinel | Echo |
 | 5006 | Gulpuff | Echo |
 | 5007 | The Crownless | Echo |
+| 5008 | ??? | Likely Echo |
+| 5009 | ??? | Likely Echo |
+| 5010 | ??? | Likely Echo |
+| 5011 | ??? | Likely Echo |
+| 5012 | ??? | Likely Echo |
+| 5013 | ??? | Likely Echo |
+| 5014 | ??? | Likely Echo |
+| 5015 | ??? | Likely Echo |
+| 5016 | ??? | Likely Echo |
 | 5101 | Phrolova | AKA Fuluoluo |
 | 5102 | Jinhsi | Again |
 | 5103 | Coastguard | AKA Shounaren |
