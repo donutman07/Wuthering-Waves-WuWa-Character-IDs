@@ -5,6 +5,7 @@
 | 1102 | Sanhua | |
 | 1103 | Baizhi | |
 | 1104 | Lingyang | |
+| 1105 | Zhezhi | |
 | 1202 | Chixia | |
 | 1203 | Encore | |
 | 1204 | Mortefi | |
@@ -13,6 +14,7 @@
 | 1302 | Yinlin | |
 | 1303 | Yuanwu | |
 | 1304 | Jinhsi | |
+| 1305 | Xiangli Yao | |
 | 1402 | Yangyang | |
 | 1403 | Aalto | |
 | 1404 | Jiyan | |
