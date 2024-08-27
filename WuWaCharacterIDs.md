@@ -6,6 +6,7 @@
 | 1103 | Baizhi | |
 | 1104 | Lingyang | |
 | 1105 | Zhezhi | |
+| 1106 | Youhu | |
 | 1202 | Chixia | |
 | 1203 | Encore | |
 | 1204 | Mortefi | |
@@ -23,7 +24,8 @@
 | 1502 | Female Rover | |
 | 1503 | Verina | AKA Jueyuan |
 | 1504 | Male Electro Rover | |
-| 1505 | Female Electro Rover | |
+| 1505 | Shorekeeper |
+| 1505 | Female Electro Rover | Old |
 | 1601 | Taoqi | |
 | 1602 | Danjin | |
 | 1603 | Camellya | AKA Chun |
