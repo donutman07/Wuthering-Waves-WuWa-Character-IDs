@@ -49,6 +49,6 @@
 | 5016 | ??? | Likely Echo |
 | 5101 | Phrolova | AKA Fuluoluo |
 | 5102 | Jinhsi | Again |
-| 5103 | Coastguard | AKA Shounaren |
+| 5103 | Coastguard | AKA Shounaren / Shorekeeper |
 | 9990 | Female Rover for execution |
 | 9991 | Male rover for execution |
