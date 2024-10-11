@@ -23,7 +23,8 @@
 | 1501 | Male Rover | |
 | 1502 | Female Rover | |
 | 1503 | Verina | AKA Jueyuan |
-| 1504 | Male Electro Rover | |
+| 1504 | Lumi | AKA Dengdeng |
+| 1504 | Male Electro Rover | Old |
 | 1505 | Shorekeeper |
 | 1505 | Female Electro Rover | Old |
 | 1601 | Taoqi | |
