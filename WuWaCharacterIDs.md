@@ -7,6 +7,7 @@
 | 1104 | Lingyang | |
 | 1105 | Zhezhi | |
 | 1106 | Youhu | |
+| 1107 | Carlotta | Kamola |
 | 1202 | Chixia | |
 | 1203 | Encore | |
 | 1204 | Mortefi | |
@@ -32,6 +33,7 @@
 | 1603 | Camellya | AKA Chun |
 | 1604 | Male Dark Rover |  |
 | 1605 | Female Dark Rover |  |
+| 1606 | Roccia | Luokeke |
 | 5001 | Cruisewing | Echo |
 | 5002 | Yinlin Doll | For Yinlin |
 | 5003 | Excarat | Echo |
