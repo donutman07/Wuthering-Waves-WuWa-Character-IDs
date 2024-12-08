@@ -12,6 +12,7 @@
 | 1203 | Encore | |
 | 1204 | Mortefi | |
 | 1205 | Changli | |
+| 1206 | Brant | AKA Bulante |
 | 1301 | Calcharo | AKA Kakarot |
 | 1302 | Yinlin | |
 | 1303 | Yuanwu | |
@@ -21,6 +22,9 @@
 | 1403 | Aalto | |
 | 1404 | Jiyan | |
 | 1405 | Jianxin | |
+| 1406 | Wind Rover | |
+| 1407 | Xiakong | TL'd Name |
+| 1408 | Carethyia | |
 | 1501 | Male Rover | |
 | 1502 | Female Rover | |
 | 1503 | Verina | AKA Jueyuan |
@@ -28,12 +32,15 @@
 | 1504 | Male Electro Rover | Old |
 | 1505 | Shorekeeper |
 | 1505 | Female Electro Rover | Old |
+| 1506 | Phoebe | |
+| 1507 | Zani | |
 | 1601 | Taoqi | |
 | 1602 | Danjin | |
 | 1603 | Camellya | AKA Chun |
 | 1604 | Male Dark Rover |  |
 | 1605 | Female Dark Rover |  |
 | 1606 | Roccia | Luokeke |
+| 1607 | Cantarella | |
 | 5001 | Cruisewing | Echo |
 | 5002 | Yinlin Doll | For Yinlin |
 | 5003 | Excarat | Echo |
