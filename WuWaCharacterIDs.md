@@ -22,9 +22,9 @@
 | 1403 | Aalto | |
 | 1404 | Jiyan | |
 | 1405 | Jianxin | |
-| 1406 | Wind Rover | |
-| 1407 | Xiakong | TL'd Name |
-| 1408 | Carethyia | |
+| 1406 | Male Aero Rover | |
+| 1407 | Ciaconna |  |
+| 1408 | Female Aero Rover | Old Cartethyia |
 | 1501 | Male Rover | |
 | 1502 | Female Rover | |
 | 1503 | Verina | AKA Jueyuan |
