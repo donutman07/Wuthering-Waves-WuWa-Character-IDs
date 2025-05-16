@@ -23,8 +23,9 @@
 | 1404 | Jiyan | |
 | 1405 | Jianxin | |
 | 1406 | Male Aero Rover | |
-| 1407 | Ciaconna |  |
+| 1407 | Ciaconna | Xiakong |
 | 1408 | Female Aero Rover | Old Cartethyia |
+| 1409 | Cartethyia | New |
 | 1501 | Male Rover | |
 | 1502 | Female Rover | |
 | 1503 | Verina | AKA Jueyuan |
